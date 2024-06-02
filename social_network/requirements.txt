@@ -1,0 +1,6 @@
+asgiref==3.8.1
+django==5.0.6
+djangorestframework==3.15.1
+djangorestframework-simplejwt==5.3.1
+pyjwt==2.8.0
+sqlparse==0.5.0
